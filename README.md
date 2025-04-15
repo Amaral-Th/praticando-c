@@ -1,3 +1,3 @@
 # praticando-c
 
-Prática de C baseada no Curso de Ciência da Computação (Estácio) e no livro "Linguagem C, 10ª edição" de Luís Damas.
+Exercícios feito em C onde as pastas "lista1" e "lista 2" representam os exercícios dados em aula e a pasta "desafios de programação" sites como beecrowd, leetcode, etc.
